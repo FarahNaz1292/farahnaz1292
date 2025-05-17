@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://farahnazportfolio.netlify.app/]
+- 👨‍💻 All of my projects are available at **https://farahnazportfolio.netlify.app**
 
 - 💬 Ask me about **web development and designing**
 
