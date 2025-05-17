@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/farahnaz1292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farahnaz1292" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="350" width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" />
+<img align="right" height="250" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" />
 
 
 <div align="center">
@@ -37,9 +37,9 @@
 
 
 
-<div align="center">
+<centered align="center">
   
-<h3 align="center">💡 My Favorite Quotes</h3>
+<h3 align="center" style="text-align: center;">💡 My Favorite Quotes</h3>
 
 <table>
   <tr>
@@ -67,11 +67,11 @@
   </tr>
 </table>
 
-</div>
+</centered>
 
 
 
-<h1>My Hobbies, ## 🚀 My Projects</h1>
+<h1>My Hobbies, 🚀 My Projects</h1>
 
 ### 📷 [Bootstrap project](https://influencerappreact.netlify.app/)
 A responsive e-commerce application built with **javascript**, **HTML**, and styled with **bootstrap**.  
