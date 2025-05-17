@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love baking**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
