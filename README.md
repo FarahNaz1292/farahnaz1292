@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://farahnazportfolio.netlify.app/](https://farahnazportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://farahnazportfolio.netlify.app/]
 
 - 💬 Ask me about **web development and designing**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love baking**
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" />
+<img align="right" height="350" width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
