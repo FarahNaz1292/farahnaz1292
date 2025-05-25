@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Farah Naz</h1>
-<h3 align="center">A passionate frontend developer and Cypress tester from US</h3>
+<p align="center">
+  <img src="./bg.png" alt="Farah Naz - Full Stack Developer" width="100%" height="400px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Building+cool+web+experiences;Always+learning+new+things&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
+
+
 
 - 🔭 I’m currently working on **LMS**
 
