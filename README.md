@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQDNZoU3WIOCT2rCCTq-8-1FYKW1ytU6KzA&s" class="text-underline font-size-sm" target="_blank">Girl setting Favorite Button in website</a> by <a href="https://iconscout.com/contributors/nanoagency" class="text-underline font-size-sm" target="_blank">nanoagency</a>" alt="MasterHead">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQDNZoU3WIOCT2rCCTq-8-1FYKW1ytU6KzA&s">
 </p>
 
 
