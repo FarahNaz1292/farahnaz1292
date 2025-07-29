@@ -60,6 +60,6 @@ width="400" height="350" src="https://user-images.githubusercontent.com/74038190
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farahnaz1292&show_icons=true&theme=merko&locale=en" alt="FarahNaz" /></p>
 
-//<p align="center">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahnaz1292&theme=highcontrast" alt="FarahNaz " />
-</p>//
+</p>
